@@ -1,5 +1,5 @@
-# Hola-Mundo
-Mi primer repositorio de prueba
+# Hola Mundo
+Mi primer repositorio
 
-Autor:  Wencesla Hernandez
+Autor:  Wenceslao Hernandez
 Fecha: 1 de Marzo 2021
